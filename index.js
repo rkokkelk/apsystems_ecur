@@ -1,1 +1,1 @@
-module.exports.APSystemsECUR = require('./lib/APSystemsECUR')
+module.exports.ECUR = require('./lib/ECUR')

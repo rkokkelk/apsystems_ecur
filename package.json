@@ -1,7 +1,7 @@
 {
-  "name": "apsystems_ecur",
-  "version": "1.0.0",
-  "description": "NodeJS module for reading data from APsystems ECU-R systems",
+  "name": "apsystems",
+  "version": "0.0.1",
+  "description": "NodeJS module for reading data from APsystems devices",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
