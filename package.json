@@ -1,6 +1,6 @@
 {
   "name": "apsystems",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NodeJS module for reading data from APsystems devices",
   "main": "index.js",
   "scripts": {
